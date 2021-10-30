@@ -1,0 +1,9 @@
+001	Popcorn	$10.00
+002	Nachos	$10.00
+003	Pizza	$15.00
+004	Fries	$5.00
+005	Hotdog	$10.00
+006	Cake	$5.00
+007	Soda	$5.00
+008	Coffee	$5.00
+009	Water	$5.00
